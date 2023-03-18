@@ -1,0 +1,128 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+customFont{
+
+}
+
+h1.heading{
+
+}
+
+.heading{
+    background-color: yellow;
+}
+
+h1{
+    font-size: 95px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.tablee{
+   
+    margin: 40px;
+    
+    /* border-collapse: collapse; */
+    display: flex;
+    justify-content: center;
+   
+}
+
+sup{
+    font-size: 12px;
+}
+
+td{
+    /* border: 1px solid blanchedalmond; */
+    margin: 3px;
+    text-align: center;
+    font-size: 19px;
+    padding: 12px 20px;
+    border: 1px solid black;
+    empty-cells: hide;
+}
+
+td:hover{
+    background-color: aqua;
+}
+
+.orngcolr{
+    background-color: orange;
+}
+
+.orngcolrr{
+    background-color: orange;
+    color: green;
+}
+.purplecolr{
+    background-color: rgb(250, 21, 250);
+}
+
+.purplecolrbl{
+    background-color: rgb(250, 21, 250);
+    color: rgb(68, 65, 212);
+}
+
+
+.bluecolr{
+    background-color: rgb(129, 201, 243);
+}
+
+
+.yellocolr{
+    background-color: rgb(237, 255, 73);
+}
+
+.yellocolrr{
+    background-color: rgb(237, 255, 73);
+    color: brown;
+}
+
+.yellocolrrr{
+    background-color: rgb(237, 255, 73);
+    color: rgb(20, 168, 0);
+}
+
+.yellocolrrrr{
+    background-color: rgb(237, 255, 73);
+    color: rgb(6, 64, 255);
+}
+
+.brwncolr{
+    
+    background-color: brown
+}
+
+.greencolr{
+    
+    background-color: rgb(128, 228, 142);
+}
+
+.greencolrr{
+    
+    background-color: rgb(128, 228, 142);
+    color: blue;
+}
+
+.skubluecolr{
+    
+    background-color: rgb(202, 232, 240);
+    color: rgb(1, 136, 46);
+}
+
+.lightredcolr{
+    
+    background-color: rgb(240, 216, 216);
+}
+
+
+.lightredcolrr{
+    
+    background-color: rgb(240, 216, 216);
+    color: brown;
+}
